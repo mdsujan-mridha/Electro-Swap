@@ -1,0 +1,84 @@
+
+[
+    {
+      "_id": "1a2b3c4d5e6f7g8h9i",
+      "productName": "Canion Freeze with warranty card",
+      "category": "Fridge",
+      "brand": "Canion",
+      "condition": "Used",
+      "price": 799.99,
+      "image": "https://i.ibb.co.com/zb478QT/product-1.png",
+      "description": "The Smartphone XL offers a large 6.7-inch display, powerful processor, and long-lasting battery. Perfect for work, gaming, and entertainment."
+    },
+    {
+      "_id": "2b3c4d5e6f7g8h9i1a",
+      "productName": "Jamuna Fridge Sale 266 Liter",
+      "category": "Fridge",
+      "brand": "Jamuna",
+      "condition": "used",
+      "price": 199.99,
+      "image": "https://i.ibb.co.com/bzxBqyH/product-2.png",
+      "description": "ফ্রিজটি বিক্রি করা হবে। দুই বছর নয় মাস আগে কেনা। এখনো নতুনের মত আছে  কোন দাগ বা স্ক্র্যাচ নাই । এখনো সাত বছরের ওয়ারেন্টি আছে। টাকার দরকার তাই বিক্রি করে দিচ্ছি। সব কাগজপত্র ঠিকঠাক ভাবে আছে । দাম ২৬০০০ টাকা ফিক্সড ।কেউ নিতে চাইলে ইনবক্স করেন বা ফোন করতে পারেন।"
+    },
+    {
+      "_id": "3c4d5e6f7g8h9i1a2b",
+      "productName": "Corsair Void Elite Wireless",
+      "category": "Headphone",
+      "brand": "Corsair",
+      "condition": "Used",
+      "price": 999.99,
+      "image": "https://i.ibb.co.com/rZCSx1S/product-3.png",
+      "description": "A powerful gaming laptop with a 15-inch display, NVIDIA GTX graphics, and 16GB RAM. Perfect for gamers on the go."
+    },
+    {
+      "_id": "4d5e6f7g8h9i1a2b3c",
+      "productName": "Dell Inspiron 15 cor i3 11th gen 8gb ram 256gb ssd 15.6 inch display",
+      "category": "Computer",
+      "brand": "Dell",
+      "condition": "used",
+      "price": 599.99,
+      "image":"https://i.ibb.co.com/8ddRxSx/product-4.png" ,
+      "description": "Enjoy stunning 4K resolution with this 55-inch LED Smart TV. Access your favorite streaming apps directly from the home screen."
+    },
+    {
+      "_id": "5e6f7g8h9i1a2b3c4d",
+      "productName": "1.5 Ton AC Diagnosis Air Conditioner",
+      "category": "Air conditioner (AC)",
+      "brand": "GREE",
+      "condition": "used",
+      "price": 49.99,
+      "image": "https://i.ibb.co.com/JC6Xk8D/product-5.png",
+      "description": "Compact yet powerful Bluetooth speaker with deep bass and clear sound. Perfect for parties, picnics, and on-the-go music."
+    },
+    {
+      "_id": "6f7g8h9i1a2b3c4d5e",
+      "productName": "Juicer blander",
+      "category": "Electrical Device",
+      "brand": "WristTech",
+      "condition": "used",
+      "price": 149.99,
+      "image": "https://i.ibb.co.com/8sBsp0k/product-6.png",
+      "description": "Track your fitness, heart rate, and sleep with the Smartwatch Z. Stay connected with notifications on the go."
+    },
+    {
+      "_id": "7g8h9i1a2b3c4d5e6f",
+      "productName": "Gas stove for sell",
+      "category": "Electrical Device",
+      "brand": "CaptureVision",
+      "condition": "Used",
+      "price": 499.99,
+      "image":"https://i.ibb.co.com/r08VfjY/product-7.png",
+      "description": "A high-performance DSLR camera with 24MP resolution, interchangeable lenses, and advanced settings for professional photography."
+    },
+    {
+      "_id": "7g8h9i1a2b3c4d5e6fe",
+      "productName": "টিভি টি ব্রিক্রয় হবে ।",
+      "category": "TV",
+      "brand": "CaptureVision",
+      "condition": "Used",
+      "price": 499.99,
+      "image":"https://i.ibb.co.com/C78f7Nd/product-8.png",
+      "description": "A high-performance DSLR camera with 24MP resolution, interchangeable lenses, and advanced settings for professional photography."
+    }
+  ]
+  
