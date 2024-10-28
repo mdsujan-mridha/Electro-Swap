@@ -7,6 +7,8 @@ import Header from "./utils/Header"
 import 'swiper/css';
 import Footer from "./utils/Footer";
 import Products from "./pages/Products";
+import ProductDetails from "./pages/ProductDetails";
+import 'react-tabs/style/react-tabs.css';
 
 
 function App() {
@@ -18,6 +20,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/products" element={<Products />} />
+          <Route path="/product/:productId" element={<ProductDetails />} />
         </Routes>
         <Footer />
       </Router>
