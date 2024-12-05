@@ -223,3 +223,55 @@ export const categories = [
         ]
     }
 ];
+
+// founder 
+const Founder = [
+    {
+        id: 1,
+        name: "Md Rony Ahmed",
+        image: "https://i.ibb.co.com/9YJM3kn/vector-users-icon.jpg"
+    },
+    {
+        id: 2,
+        name: "Md Sabbir Ahmed",
+        image: "https://i.ibb.co.com/9YJM3kn/vector-users-icon.jpg"
+    },
+    {
+        id: 3,
+        name: "Meherun Nessa",
+        image: "https://i.ibb.co.com/0ZhgShL/female-296990-1280.png"
+    },
+    
+]
+
+// review 
+const reviews = [
+    {
+        id: 1,
+        name: "Stacy",
+        image: "https://i.ibb.co/JQZnGfm/unsplash-6-W4-F62s-N-y-I.png",
+        review: "Once we ordered some accessories items and we got the products delivered in our doorstep, the customer support was super helpful and they answered all my queries.",
+        rating: 5
+    },
+    {
+        id: 2,
+        name: "Tiffany",
+        image: "https://i.ibb.co/dLPLqP2/unsplash-6-W4-F62s-N-y-I-1.png",
+        review: "I ordered a few items from your website and I received them on time. I am very satisfied with the quality of products.",
+        rating: 4
+    },
+    {
+        id: 3,
+        name: "James",
+        image: "https://i.ibb.co/Pxxrn13/unsplash-6-W4-F62s-N-y-I-2.png",
+        review: "I got a wrong shirt so I contacted them and they happily offered me a refund. I will surely shop from them again.",
+        rating: 3
+    }
+]
+
+const fakeData = {
+    Founder,
+    reviews
+};
+
+export default fakeData;
